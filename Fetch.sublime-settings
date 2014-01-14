@@ -1,0 +1,16 @@
+{
+	"files":
+	{
+		"gruntfile.js": "https://raw.github.com/janbaer/templates/master/gruntfile.js",
+		"jquery": "http://code.jquery.com/jquery-2.0.3.js",
+		"package.json": "https://raw.github.com/janbaer/templates/master/package.json",
+		"underscore.js": "http://underscorejs.org/underscore.js"
+	},
+	"packages":
+	{
+		"A kata with JavaScript": "https://github.com/janbaer/templates/raw/master/Kata.JavaScript.zip",
+		"bootstrap": "http://twitter.github.io/bootstrap/assets/bootstrap.zip",
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"node.js with typescript": "https://github.com/janbaer/templates/raw/master/NodeJsWithTypeScript.zip"
+	}
+}

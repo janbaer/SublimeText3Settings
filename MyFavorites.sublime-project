@@ -1,0 +1,49 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jan/Projects/wiki"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jan/Projects/WebSites/myblog"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jan/Dropbox/_AppSettings/SublimeText"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jan/Projects/templates"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jan/Projects/dotfiles"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jan/Dropbox/Notes"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jan/Projects/GitHub"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jan/Projects/github/swk"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jan/Dropbox/Develop/Learning"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jan/Projects/Katas"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jan/Dropbox/_AppSettings/SublimeText/snippets"
+		}
+	]
+}

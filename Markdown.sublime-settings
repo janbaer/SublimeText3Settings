@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme",
+	"extensions":
+	[
+		"mdown",
+		"txt",
+		"md"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": false
+}

@@ -1,0 +1,41 @@
+{
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
+	"bold_folder_labels": false,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"detect_indentation": true,
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"tmp",
+		".bundle",
+		".sass-cache"
+	],
+	"font_size": 19.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"tern_for_sublime",
+		"Markdown",
+		".DS_Store",
+		"Autocomplete Javascript with Method Signature",
+		"Git",
+		"ASP"
+	],
+	"rulers":
+	[
+	],
+	"soda_folder_icons": true,
+	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false,
+	"wrap_width": 120
+}
