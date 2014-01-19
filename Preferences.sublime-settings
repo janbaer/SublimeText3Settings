@@ -20,13 +20,13 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"tern_for_sublime",
 		"Markdown",
+		"tern_for_sublime",
 		".DS_Store",
-		"Autocomplete Javascript with Method Signature",
 		"Git",
-		"ASP"
+		"Autocomplete Javascript with Method Signature",
+		"ASP",
+		"Vintage"
 	],
 	"rulers":
 	[
