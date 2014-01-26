@@ -21,12 +21,12 @@
 	"ignored_packages":
 	[
 		"Markdown",
-		"tern_for_sublime",
-		".DS_Store",
-		"Git",
 		"Autocomplete Javascript with Method Signature",
+		".DS_Store",
+		"tern_for_sublime",
+		"Vintage",
 		"ASP",
-		"Vintage"
+		"Git"
 	],
 	"rulers":
 	[
