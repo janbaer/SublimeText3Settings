@@ -1,4 +1,5 @@
 {
+	"auto_complete": false,
 	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
 	"bold_folder_labels": false,
 	"caret_style": "phase",
@@ -20,12 +21,10 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Autocomplete Javascript with Method Signature",
-		".DS_Store",
-		"tern_for_sublime",
-		"Vintage",
 		"ASP",
+		"Markdown",
+		"JavaScript & NodeJS Snippets",
+		"SideBarGit",
 		"Git"
 	],
 	"rulers":
