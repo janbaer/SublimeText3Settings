@@ -2,6 +2,7 @@
 	"auto_complete": false,
 	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
 	"bold_folder_labels": false,
+	"caret_extra_width": 2,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"detect_indentation": true,
@@ -21,11 +22,12 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"ASP",
 		"Markdown",
-		"JavaScript & NodeJS Snippets",
 		"SideBarGit",
-		"Git"
+		"tern_for_sublime",
+		"JavaScript & NodeJS Snippets",
+		"Git",
+		"ASP"
 	],
 	"rulers":
 	[
