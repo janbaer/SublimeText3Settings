@@ -4,7 +4,7 @@
 	"bold_folder_labels": false,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"color_scheme": "Packages/User/cobalt2 (SL).tmTheme",
 	"detect_indentation": true,
 	"draw_white_space": "all",
 	"fade_fold_buttons": false,
@@ -22,12 +22,11 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"ASP",
 		"Markdown",
-		"SideBarGit",
-		"tern_for_sublime",
 		"JavaScript & NodeJS Snippets",
-		"Git",
-		"ASP"
+		"tern_for_sublime",
+		"Git"
 	],
 	"rulers":
 	[
