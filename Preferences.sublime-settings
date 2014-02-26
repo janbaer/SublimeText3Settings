@@ -32,6 +32,7 @@
 	[
 	],
 	"soda_folder_icons": true,
+	"show_encoding": true,
 	"tab_size": 2,
 	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": true,
