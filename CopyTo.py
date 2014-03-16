@@ -21,7 +21,7 @@ class CopyToCommand(sublime_plugin.WindowCommand):
 class CopyToTextCommand(sublime_plugin.TextCommand):
 
   def run(self, edit, input_string):
-    match = re.match('^(\d+)(?:,(\d+))*(c|t|m)(\d+)', input_string)
+    match = re.match('^(\d+)(?:,(\d+))?(c|t|m)(\d+)', input_string)
     if match:
       begin = int(match.group(1)) -  1
       end = begin
