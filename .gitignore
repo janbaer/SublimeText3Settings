@@ -1,4 +1,5 @@
 snippets/
 *.cache
 *.sublime-workspace
+Package\ Control.system-ca-bundle
 Package\ Control.last-run
