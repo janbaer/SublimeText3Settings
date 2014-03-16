@@ -1,6 +1,4 @@
 [
-  {
-    "keys": ["super+enter"],
-    "command": "shell_command"
-  }
+  { "keys": ["super+enter"], "command": "shell_command" },
+  { "keys": ["super+ctrl+c"], "command": "copy_to"}
 ]
