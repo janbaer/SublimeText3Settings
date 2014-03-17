@@ -40,14 +40,10 @@ class CopyToTextCommand(sublime_plugin.TextCommand):
       self.view.insert(edit, insert_point, line_contents)
 
       if move:
-        self.view.erase(edit, self.getRegion(self.view, begin, end, True))
+        self.view.erase(edit, source_region)
 
-  def getRegion(self, view, start, end, with_line_ending=False):
-    if with_line_ending:
-      lineFrom = view.full_line(view.text_point(start, 0))
-      lineTo = view.full_line(view.text_point(end, 0))
-    else:
-      lineFrom = view.line(view.text_point(start, 0))
-      lineTo = view.line(view.text_point(end, 0))
+  def getRegion(self, view, start, end):
+    lineFrom = view.full_line(view.text_point(start, 0))
+    lineTo = view.full_line(view.text_point(end, 0))
 
     return sublime.Region(lineFrom.a, lineTo.b)
