@@ -20,15 +20,12 @@
 		"JSHint Gutter",
 		"JSONLint",
 		"LESS",
-		"LiveReload",
 		"MarkdownEditing",
 		"Modific",
 		"Nettuts+ Fetch",
 		"Nodejs",
 		"Package Control",
 		"PlainTasks",
-		"PowerShell",
-		"PowershellUtils",
 		"Pretty JSON",
 		"Shell Command",
 		"SideBarEnhancements",
@@ -38,7 +35,6 @@
 		"Theme - Cobalt2",
 		"Theme - Soda",
 		"TypeScript",
-		"Web Inspector",
 		"WordCount",
 		"XAML"
 	]
