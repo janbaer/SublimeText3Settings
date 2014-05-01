@@ -25,6 +25,7 @@ class CopyToTextCommand(sublime_plugin.TextCommand):
     if match:
       begin = int(match.group(1)) -  1
       end = begin
+
       if match.group(2) is not None:
         end = int(match.group(2)) - 1
       to = int(match.group(4)) - 1
@@ -34,10 +35,10 @@ class CopyToTextCommand(sublime_plugin.TextCommand):
         move = True
 
       source_region = self.getRegion(self.view, begin, end)
+      target_region = self.getRegion(self.view, to, to)
       line_contents = self.view.substr(source_region)
 
-      insert_point = self.view.text_point(to, 0)
-      self.view.insert(edit, insert_point, line_contents)
+      self.view.replace(edit, target_region, line_contents)
 
       if move:
         self.view.erase(edit, source_region)
