@@ -22,12 +22,14 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"tern_for_sublime",
 		"Nodejs",
-		"Markdown",
-		"Git",
 		"JavaScript & NodeJS Snippets",
-		"ASP"
+		"ASP",
+		"Git",
+		"Markdown",
+		"tern_for_sublime",
+		"JavaScript.old",
+		"JavaScript"
 	],
 	"rulers":
 	[
