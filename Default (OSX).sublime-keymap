@@ -1,4 +1,5 @@
 [
   { "keys": ["super+enter"], "command": "shell_command" },
-  { "keys": ["super+ctrl+c"], "command": "copy_to"}
+  { "keys": ["super+ctrl+c"], "command": "copy_to"},
+  { "keys": ["ctrl+shift+2"], "command": "insert_snippet", "args": { "name": "Packages/User/snippets/js/iify.sublime-snippet" } }
 ]
