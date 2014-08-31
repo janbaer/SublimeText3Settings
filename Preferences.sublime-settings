@@ -16,20 +16,22 @@
 		"CVS",
 		"tmp",
 		".bundle",
-		".sass-cache"
+		".sass-cache",
+		".tmp"
 	],
 	"font_size": 19.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Nodejs",
+		"Git",
+		"tern_for_sublime",
 		"JavaScript & NodeJS Snippets",
 		"ASP",
-		"Git",
-		"Markdown",
-		"tern_for_sublime",
+		"JavaScript",
 		"JavaScript.old",
-		"JavaScript"
+		"Nodejs",
+		"Markdown",
+		"Vintage"
 	],
 	"rulers":
 	[
@@ -37,7 +39,6 @@
 	"show_encoding": true,
 	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false,
