@@ -1,46 +1,47 @@
 {
-	"auto_complete": false,
-	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
-	"bold_folder_labels": false,
-	"caret_extra_width": 2,
-	"caret_style": "phase",
-	"color_scheme": "Packages/User/cobalt2 (SL).tmTheme",
-	"detect_indentation": true,
-	"draw_white_space": "all",
-	"fade_fold_buttons": false,
-	"folder_exclude_patterns":
-	[
-		".svn",
-		".git",
-		".hg",
-		"CVS",
-		"tmp",
-		".bundle",
-		".sass-cache",
-		".tmp"
-	],
-	"font_size": 19.0,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Git",
-		"tern_for_sublime",
-		"JavaScript & NodeJS Snippets",
-		"ASP",
-		"JavaScript",
-		"JavaScript.old",
-		"Nodejs",
-		"Markdown",
-		"Vintage"
-	],
-	"rulers":
-	[
-	],
-	"show_encoding": true,
-	"soda_folder_icons": true,
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	"wrap_width": 120
+  "auto_complete": false,
+  "auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
+  "bold_folder_labels": false,
+  "caret_extra_width": 2,
+  "caret_style": "phase",
+  "color_scheme": "Packages/User/cobalt2 (SL).tmTheme",
+  "detect_indentation": true,
+  "draw_white_space": "all",
+  "fade_fold_buttons": false,
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".hg",
+    "CVS",
+    "tmp",
+    ".bundle",
+    ".sass-cache",
+    ".tmp"
+  ],
+  "font_size": 19.0,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Git",
+    "JavaScript & NodeJS Snippets",
+    "Vintage",
+    "ASP",
+    "JavaScript",
+    "Markdown",
+    "JavaScript.old",
+    "Nodejs",
+    "tern_for_sublime"
+  ],
+  "rulers":
+  [
+  ],
+  "show_encoding": true,
+  "soda_folder_icons": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": false,
+  "wrap_width": 120,
+  "highlight_modified_tabs": true
 }
